@@ -1,0 +1,5 @@
+ProcessBankOperationServlet.class
+ProcessStudentServlet.class
+FetchStudentListServlet.class
+DeleteStudentServlet.class
+UpdateStudentServlet.class
